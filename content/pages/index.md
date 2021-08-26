@@ -139,7 +139,13 @@ sections:
       idAttr: lorem-ipsum
       action: lorem-ipsum
       destination: lorem-ipsum
-      fields: []
+      fields:
+        - name: lorem-ipsum
+          label: lorem-ipsum
+          placeholder: lorem-ipsum
+          isRequired: false
+          width: full
+          type: TextFormControl
       submitLabel: lorem-ipsum
       type: FormBlock
     type: HeroSection
