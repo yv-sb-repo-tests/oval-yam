@@ -116,7 +116,7 @@ sections:
           label: Sign me up to receive updates
           width: full
       submitLabel: Send Message
-  - variant: variant-a
+  - variant: variant-b
     colors: colors-a
     width: wide
     height: auto
