@@ -152,6 +152,11 @@ sections:
           isRequired: false
           width: full
           type: EmailFormControl
+        - name: lorem-ipsum
+          label: lorem-ipsum
+          isRequired: false
+          width: full
+          type: CheckboxFormControl
       submitLabel: lorem-ipsum
       type: FormBlock
     type: HeroSection
