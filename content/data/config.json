@@ -25,7 +25,6 @@
             {
                 "label": "Blog",
                 "url": "/blog",
-                "altText": "lorem-ipsum",
                 "style": "link",
                 "icon": "arrowRight",
                 "type": "Button"
