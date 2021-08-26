@@ -758,6 +758,7 @@ models:
       - type: enum
         name: icon
         label: Icon
+        required: false
         options:
           - arrowRight
           - cart
