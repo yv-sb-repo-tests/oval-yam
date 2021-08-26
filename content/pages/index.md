@@ -9,7 +9,7 @@ sections:
     height: auto
     alignHoriz: left
     badge: New Website
-    title: 'The quick, brown fox jumps over **a lazy dog**'
+    title: '0.2.0 The quick, brown fox jumps over **a lazy dog**'
     text: >-
       A group of local fisherman, working to deliver sustainable fish to your
       table. Each fish you buy, helps support fishing regulations and laws, to
