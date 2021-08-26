@@ -146,6 +146,12 @@ sections:
           isRequired: false
           width: full
           type: TextFormControl
+        - name: lorem-ipsum
+          label: lorem-ipsum
+          placeholder: lorem-ipsum
+          isRequired: false
+          width: full
+          type: EmailFormControl
       submitLabel: lorem-ipsum
       type: FormBlock
     type: HeroSection
