@@ -23,7 +23,7 @@ sections:
         label: Learn More
         url: 'https://www.stackbit.com/'
         style: secondary
-    feature:
+   
       type: ImageBlock
       imageUrl: 'https://source.unsplash.com/wPJygs79jMA/640x360'
       imageAltText: Image alt text
