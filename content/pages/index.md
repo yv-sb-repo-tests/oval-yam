@@ -23,11 +23,6 @@ sections:
         label: Learn More
         url: 'https://www.stackbit.com/'
         style: secondary
-   
-      type: ImageBlock
-      imageUrl: 'https://source.unsplash.com/wPJygs79jMA/640x360'
-      imageAltText: Image alt text
-      imageCaption: Image caption
   - type: TestimonialsSection
     variant: variant-a
     colors: colors-e
