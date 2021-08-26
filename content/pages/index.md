@@ -116,4 +116,31 @@ sections:
           label: Sign me up to receive updates
           width: full
       submitLabel: Send Message
+  - variant: variant-a
+    colors: colors-a
+    width: wide
+    height: auto
+    alignHoriz: left
+    badge: lorem-ipsum
+    title: lorem-ipsum
+    text: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    feature:
+      idAttr: lorem-ipsum
+      action: lorem-ipsum
+      destination: lorem-ipsum
+      fields: []
+      submitLabel: lorem-ipsum
+      type: FormBlock
+    type: HeroSection
 ---
