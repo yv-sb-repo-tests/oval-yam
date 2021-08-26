@@ -24,7 +24,7 @@
             },
             {
                 "label": "Blog",
-                "url": "#",
+                "url": "/blog",
                 "altText": "lorem-ipsum",
                 "style": "link",
                 "icon": "arrowRight",
