@@ -26,7 +26,7 @@
                 "label": "lorem-ipsum",
                 "url": "#",
                 "altText": "lorem-ipsum",
-                "style": "secondary",
+                "style": "link",
                 "icon": "arrowRight",
                 "type": "Button"
             }
